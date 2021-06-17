@@ -893,7 +893,7 @@ $text = @"
 					}
 				}
 				else {
-					Write-Host "[ES NOK]" $EnrollmentService.name "cannot be requested or modified ... sorry" -DarkMagenta
+					Write-Host "[ES NOK]" $EnrollmentService.name "cannot be requested or modified ... sorry" -ForegroundColor DarkMagenta
 				}
 			}
 		}
