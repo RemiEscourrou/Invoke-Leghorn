@@ -10,7 +10,7 @@ Import-Module .\Invoke-Leghorn.ps1
 Invoke-Leghorn -Domain test.loc
 ```
 
-![Screenshot](https://github.com/RemiEscourrou/Invoke-Leghorn/raw/master/example.png)
+![Screenshot](https://github.com/RemiEscourrou/Invoke-Leghorn/raw/main/example.png)
 
 # Credits
 
